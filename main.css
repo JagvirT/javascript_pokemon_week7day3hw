@@ -1,0 +1,26 @@
+.main_page{
+    background-color: rgb(147, 191, 204)
+}
+
+.header_poke{
+    margin-top: 10vh;
+    display: block;
+    text-align: center;
+    font-size: 32px;
+    color: rgb(235, 235, 177)
+    
+}
+
+#poke-data{
+    margin: auto;
+    display: block;
+}
+
+.search_pokemon{
+    display: block;
+    margin: auto;
+}
+
+.pokemon_card{
+    text-align: center;
+}
